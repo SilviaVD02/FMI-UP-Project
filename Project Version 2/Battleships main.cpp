@@ -11,7 +11,7 @@
 * @compiler VC
 *
 * <Main cpp file, ShipFormationSelection, Gameplay>
-*
+* 
 */
 
 #include <iostream>
