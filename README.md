@@ -1,2 +1,2 @@
-# FMU-UP-Project
+# FMI-UP-Project
 Course work for UP Practicum
